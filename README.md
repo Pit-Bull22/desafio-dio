@@ -1,5 +1,5 @@
 # desafio-dio
-Desafio do projeto Git/Github
+Repodsitorio criado para o desafio de projeto 
 
 ## Minhas Redes
 [Meu linkedIn](https://www.linkedin.com/in/rsoliveiranet/)
